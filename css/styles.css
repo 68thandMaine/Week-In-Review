@@ -27,17 +27,41 @@
   font-family: 'Didact Gothic', sans-serif;
 }
 
-#excite {
+.excite {
   font-family: 'Fontdiner Swanky', cursive;
 }
 
 .column{
-  height: 100%
+  height: 900px;
   background:whitesmoke;
   overflow: scroll;
-  width: 80%
+  width: 50%;
   margin: 0 auto;
   padding: 3em;
   border: 1px solid #fff;
   float: left;
+}
+
+.review {
+
+  font-size: 32px;
+  font-family: 'Permanent Marker', cursive;
+}
+
+.name {
+  font-family: 'Didact Gothic', sans-serif;
+}
+
+.text {
+  font-family: 'Didact Gothic', sans-serif;
+  font-style: italic;
+  padding-bottom: 10px;
+}
+
+
+
+
+.scrollable-content {
+  height: 180px;
+  overflow: auto;
 }
