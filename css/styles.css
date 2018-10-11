@@ -1,0 +1,43 @@
+.top {
+  position: relative;
+  text-align: center;
+  color: black;
+  width: 100%
+
+}
+
+.centered {
+  position: absolute;
+  top: 20%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  font-family: 'Gloria Hallelujah', cursive;
+  font-size: 72px;
+  color: #FFFF3D;
+
+}
+
+.head{
+  text-align: center;
+  font-family: 'Permanent Marker', cursive;
+}
+
+.body {
+  text-align: center;
+  font-family: 'Didact Gothic', sans-serif;
+}
+
+#excite {
+  font-family: 'Fontdiner Swanky', cursive;
+}
+
+.column{
+  height: 100%
+  background:whitesmoke;
+  overflow: scroll;
+  width: 80%
+  margin: 0 auto;
+  padding: 3em;
+  border: 1px solid #fff;
+  float: left;
+}
